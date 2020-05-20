@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lazer\\OneDrive\\Desktop\\Code\\clicker-mvp-test\\clicker-mvp-test\\clicker-mvp-test.csproj": {}
+    "C:\\Users\\lazer\\OneDrive\\Desktop\\Code\\clicker-mvp-test\\clicker-mvp-test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lazer\\OneDrive\\Desktop\\Code\\clicker-mvp-test\\clicker-mvp-test\\clicker-mvp-test.csproj": {
+    "C:\\Users\\lazer\\OneDrive\\Desktop\\Code\\clicker-mvp-test\\clicker-mvp-test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lazer\\OneDrive\\Desktop\\Code\\clicker-mvp-test\\clicker-mvp-test\\clicker-mvp-test.csproj",
+        "projectUniqueName": "C:\\Users\\lazer\\OneDrive\\Desktop\\Code\\clicker-mvp-test\\clicker-mvp-test.csproj",
         "projectName": "clicker-mvp-test",
-        "projectPath": "C:\\Users\\lazer\\OneDrive\\Desktop\\Code\\clicker-mvp-test\\clicker-mvp-test\\clicker-mvp-test.csproj",
+        "projectPath": "C:\\Users\\lazer\\OneDrive\\Desktop\\Code\\clicker-mvp-test\\clicker-mvp-test.csproj",
         "packagesPath": "C:\\Users\\lazer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lazer\\OneDrive\\Desktop\\Code\\clicker-mvp-test\\clicker-mvp-test\\obj\\",
+        "outputPath": "C:\\Users\\lazer\\OneDrive\\Desktop\\Code\\clicker-mvp-test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lazer\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lazer\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lazer\\.nuget\\packages"
+    ]
+  }
+}
