@@ -34,3 +34,4 @@ C:\Users\lazer\OneDrive\Desktop\Code\clicker-mvp-test\obj\Debug\netcoreapp3.1\cl
 C:\Users\lazer\OneDrive\Desktop\Code\clicker-mvp-test\obj\Debug\netcoreapp3.1\clicker-mvp-test.pdb
 C:\Users\lazer\OneDrive\Desktop\Code\clicker-mvp-test\obj\Debug\netcoreapp3.1\clicker-mvp-test.csproj.CopyComplete
 C:\Users\lazer\OneDrive\Desktop\Code\clicker-mvp-test\obj\Debug\netcoreapp3.1\Razor\Views\Home\Donate.cshtml.g.cs
+C:\Users\lazer\OneDrive\Desktop\Code\clicker-mvp-test\bin\Debug\netcoreapp3.1\libman.json
